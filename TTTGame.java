@@ -2,8 +2,6 @@
 /**
 * *******************************************************
 *
-* Question 1 about coding TicTacToe was answered.
-*
 * Multiplayer TicTacToe in Java using Java's
 * javax.swing package in order to implement
 * GUI elements. This game is entirely application-based/
