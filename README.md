@@ -3,7 +3,7 @@
 ## Languages and Frameworks
 <ul>
   <li>Java</li>
-  <li>Java Swing library for GUI</li>
+  <li>Java Swing library for implementing GUI</li>
 </ul>
 
 ## Images
